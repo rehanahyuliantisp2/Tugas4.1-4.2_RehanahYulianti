@@ -1,0 +1,15 @@
+.propilenama {
+  color: rgb(55, 211, 223);
+}
+.img {
+  display: flex;
+  justify-content: space-between;
+}
+.care {
+  display: flex;
+  justify-content: space-around;
+}
+p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: justify;
+}
